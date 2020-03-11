@@ -4,7 +4,7 @@
     - 依存ライブラリが各種API変更の波にのまれてしまった感がありますが、それでも`git`にあげていないとやはり不便なので公開しておきます。
     - Web画像を利用したデモと、ラズパイでカメラを利用するデモを用意しましたが、両対応できるようにしました。
 - 特徴抽出のコンセプトについては、`deeplearning.ai`のNg先生の解説が一番わかりやすいのですが、簡単なイメージとして当時作成したスライドから以下を添付します。
-![Image](github-images/from_slides.png)
+![Image](github-images/from_slide.png)
 ### References
 - Youtube: “Stanford University School of Engineering”
   - https://www.youtube.com/channel/UCdKG2JnvPu6mY1NDXYFfN0g
